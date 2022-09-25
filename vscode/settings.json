@@ -1,0 +1,64 @@
+{
+  "workbench.preferredHighContrastColorTheme": "Solarized Dark",
+  "code-runner.runInTerminal": true,
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+  },
+  "kite.showWelcomeNotificationOnStartup": false,
+  "workbench.editor.untitled.hint": "hidden",
+  "editor.fontSize": 15,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.sortImports": true
+  },
+  "python.pythonPath": "C:\\Users\\reese\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+  "workbench.colorTheme": "Monokai Vibrant",
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "python.defaultInterpreterPath": "C:\\Users\\Reese\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+  "C_Cpp.addNodeAddonIncludePaths": true,
+  "C_Cpp.default.includePath": [],
+  "security.workspace.trust.untrustedFiles": "open",
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "tabnine.experimentalAutoImports": true,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.profiles.windows": {
+    "Git Bash": { "path": "C:\\Git\\bin\\bash.exe" }
+  },
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "terminal.integrated.enableShellIntegration": true,
+  "terminal.integrated.ignoreProcessNames": ["starship", "oh-my-posh", "zsh"],
+  "editor.inlineSuggest.enabled": true,
+  "telemetry.telemetryLevel": "off",
+  "GitLive.Issue tracker integration": "Disabled",
+  "github.copilot.enable": {
+    "*": false,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false,
+    "python": false
+  },
+  "git.autofetch": true,
+  "sync.gist": "0c41be2cb20efe94816313b4488d7f6d",
+  "code-runner.defaultLanguage": "python3",
+  "code-runner.clearPreviousOutput": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "dotnetAcquisitionExtension.existingDotnetPath": [],
+  "workbench.iconTheme": "vscode-icons",
+  "breadcrumbs.enabled": false,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "code-runner.saveFileBeforeRun": true,
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "editor.formatOnSave": true,
+  "editor.stickyScroll.enabled": true,
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "python.formatting.provider": "autopep8"
+}

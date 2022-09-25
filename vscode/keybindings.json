@@ -1,0 +1,36 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "ctrl+up",
+    "command": "cursorHome",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "home",
+    "command": "-cursorHome",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "ctrl+down",
+    "command": "cursorEnd",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "end",
+    "command": "-cursorEnd",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "ctrl+shift+down",
+    "command": "-cursorDownSelect",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "ctrl+shift+down",
+    "command": "cursorLineEndSelect"
+  },
+  {
+    "key": "ctrl+shift+up",
+    "command": "cursorLineStartSelect"
+  }
+]
