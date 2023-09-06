@@ -13,3 +13,6 @@ E = ["extend_to_line_start"]
 
 [editor.cursor-shape]
 insert = "bar"
+
+[editor.soft-wrap]
+enable = true
