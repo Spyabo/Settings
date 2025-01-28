@@ -9,7 +9,7 @@ E = ["extend_to_line_start"]
 
 [editor]
 bufferline = "multiple"
-true_color = true  
+true-color = true  
 
 [editor.cursor-shape]
 insert = "bar"
